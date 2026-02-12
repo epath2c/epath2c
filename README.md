@@ -13,7 +13,7 @@ I value clear system design, data integrity, and backend reliability over UI com
 
 ## My skills:
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -36,7 +36,7 @@ I value clear system design, data integrity, and backend reliability over UI com
 
 ###
 
-<h4 align="left">Databases</h4>
+<h3 align="left">Databases</h3>
 
 ###
 
@@ -56,7 +56,7 @@ I value clear system design, data integrity, and backend reliability over UI com
 
 ###
 
-<h4 align="left">Framework & Libraries</h4>
+<h3 align="left">Framework & Libraries</h3>
 
 ###
 
@@ -83,7 +83,7 @@ I value clear system design, data integrity, and backend reliability over UI com
 
 ###
 
-<h4 align="left">Developer Tools</h4>
+<h3 align="left">Developer Tools</h3>
 
 ###
 
@@ -111,7 +111,7 @@ I value clear system design, data integrity, and backend reliability over UI com
 
 ###
 
-<h4 align="left">IoT</h4>
+<h3 align="left">IoT</h3>
 
 ###
 
